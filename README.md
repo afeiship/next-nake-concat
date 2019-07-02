@@ -12,3 +12,6 @@ import nxNakeConcat from 'next-nake-concat';
 
 nxNakeConcat(['test/files/*.css'],'dist/test.css');
 ```
+
+## resources
+- https://github.com/gko/concat
