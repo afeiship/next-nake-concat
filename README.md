@@ -8,5 +8,7 @@ npm install -S afeiship/next-nake-concat --registry=https://registry.npm.taobao.
 
 ## usage
 ```js
-//DOCS here!
+import nxNakeConcat from 'next-nake-concat';
+
+nxNakeConcat(['test/files/*.css'],'dist/test.css');
 ```
